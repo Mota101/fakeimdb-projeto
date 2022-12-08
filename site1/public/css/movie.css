@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.movie-title{
+    font-size: 68,2cm;
+}
+
+.list-group{
+    background-color: #500708 !important;
+    border: 8px solid #993525;
+    border-radius: 20px;
+}
+.list-group-item{
+    background-color: #500708 !important;
+    border: none!important;
+}

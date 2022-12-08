@@ -1,0 +1,109 @@
+body{
+    background-color: #101728!important;
+    font-size: medium!important;
+    color: #FFFFFF!important;
+    font-family: 'Poppins', sans-serif!important;
+    max-width: 100%!important;
+    height: 100%!important;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    text-align: center!important;
+    align-items: center;
+}
+#login-text{
+    font-size: 35px!important;
+    font-weight: 700!important;
+    font-weight: bold;
+    margin-bottom: -12px!important;
+}
+#text{
+    font-family: 'Poppins', sans-serif!important;
+    font-size: 17px!important;
+    font-weight: 300!important;
+    color: #ff1616;
+}
+#span-email{
+    font-family: 'Poppins', sans-serif!important;
+    font-size: 15px!important;
+    font-weight: 200!important;
+    display: block!important;
+    margin-right: 173px!important;
+}
+#span-senha{
+    font-family: 'Poppins', sans-serif!important;
+    font-size: 15px!important;
+    font-weight: 200!important;
+    display: block!important;
+    margin-right: 173px!important;
+}
+input{
+    background-color: #101728!important;
+    border: 1px solid #FFFFFF!important;
+    color: #FFFFFF!important;
+    display: block!important;
+    margin: 0 auto!important;
+    padding: 2px!important;
+    margin-top: 2px!important;
+    margin-bottom: 10px!important;
+    width: 210px!important;
+    height: 40px!important;
+    cursor: pointer!important;
+}
+input::placeholder{
+    color: #FFFFFF!important;
+    padding-left: 12px!important;
+    font-weight: lighter!important;
+    font-size: 12px!important;
+}
+#forgot-btn{
+    font-family: 'Poppins', sans-serif!important;
+    font-size: 15px!important;
+    font-weight: 200!important;
+    background-color: #101728!important;
+    color: #FFFFFF!important;
+    margin-right: 100px!important;
+    cursor: pointer!important;
+    border: 0px;
+}
+#forgot-btn:hover{
+    color: #ff1616!important;
+    transition: 0.6s!important;
+}
+#creat-btn{
+    font-family: 'Poppins', sans-serif!important;
+    font-size: 15px!important;
+    font-weight: 200!important;
+    background-color: #101728!important;
+    color: #FFFFFF!important;
+    margin-left: 90px!important;
+    cursor: pointer!important;
+    border: 0px;
+
+}
+#creat-btn:hover{
+    color: #ff1616!important;
+    transition: 0.6s!important;
+}
+#login-btn{
+    font-family: 'Poppins', sans-serif!important;
+    font-size: 19px!important;
+    font-weight: 300!important;
+    width: 130px!important;
+    height: 40px!important;
+    margin-top: 20px!important;
+    background-color: #FFFFFF!important;
+    font-size: 15px!important;
+    font-weight: bold!important;
+    cursor: pointer!important;
+    border: 2px solid #FFFFFF!important;
+    border-radius: 20px;
+    color: #101728;
+}
+#login-btn:hover{
+    background-color: #101728!important;
+    color: #FFFFFF!important;
+    transition-duration: 0.6s!important;
+}

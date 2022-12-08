@@ -1,0 +1,112 @@
+body{
+    background-color: #101728!important;
+    text-align: center;
+    display: inline;
+}
+nav{
+    text-align: right;
+}
+hr{
+    color: #FFF !important;
+    background-color: #FFF;
+    opacity: 1 !important;
+    margin: 0 !important;
+}
+#menu{
+    list-style-type: none;
+    padding: 0;
+    height: 54px;
+}
+#menu li{
+    display: inline-block;
+}
+#menu li a{
+    padding: 15px;
+    display: inline-block;
+    color: #FFF;
+    text-decoration: none;
+}
+#menu li a:hover{
+    background-color: #FFF;
+    color: #101728;
+    transition-duration: 0.9s;
+}
+.perfil{
+    width: 18px;
+    margin-bottom: 2px;
+}
+
+input{
+    margin-bottom: 5px;
+    height: 30px;
+}
+
+.form-control{
+    width: 50%!important;
+    height: 40px!important;
+    text-align: center !important;
+    border: 1px solid #FFFFFF;
+    background-color: #FFFFFF;
+    margin-top: 30px!important;
+    margin-bottom: 10px;
+    margin-left: 300px!important;
+    margin-right: 300px!important;
+    border-radius: 22px!important;
+}
+
+.pesquisa-bar{
+    font-size: 25px;
+    border-radius: 30px;
+    padding: 7px 20px;
+    width: 70%;
+    border: 0;
+    outline: 0;
+    display: inline;
+    color: #000;
+    background: #FFF;
+}
+
+.lupa{
+    width: 28px;
+    margin-left: 10px;
+    margin-bottom: 14px;
+    border: none;
+    margin-left: 130px;
+    cursor: pointer;
+}
+
+.img{
+    width: 210px;
+    height: 315px;
+}
+
+.img:hover{
+    width: 230px;
+    height: 335px;
+    transition: 0.7s;
+}
+
+.btn-movie{
+    background-color: #000;
+    color: #FFF;
+    margin-bottom: 15px;
+}
+
+.btn-movie:hover{
+    color: #ff1616;
+    transition-duration: 0.6s;
+}
+
+.movie-title{
+    color: #FFF;
+    text-decoration: none;
+}
+
+.movie-year{
+    color: #FFFFFF;
+    margin-bottom: 7px;
+}
+
+.row {
+    padding : 20px 0;
+} 
